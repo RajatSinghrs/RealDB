@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333916690912",
+    "firebase_url": "https://realtdb-dcd4a-default-rtdb.firebaseio.com",
+    "project_id": "realtdb-dcd4a",
+    "storage_bucket": "realtdb-dcd4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333916690912:android:9f9140a609293886e1f385",
+        "android_client_info": {
+          "package_name": "com.example.realtdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333916690912-lqvr8q45308tj7ubh452mov8l35nohph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNr3BMT_OykSKuboe7XHjFI3d5ZOsBZxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333916690912-lqvr8q45308tj7ubh452mov8l35nohph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
